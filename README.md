@@ -3,7 +3,6 @@
 <!-- ![](https://komarev.com/ghpvc/?username=VladKalachev) -->
 
 ## I'm a FrontEnd Developer
-- 💪 I write code every day
 - 🤹 Also, I write write backend for my pet-projects
 - 🎉 Currently I'm trying to create desktop app by using Electron.js
 - 🥅 I am constantly learning new things in web dev
