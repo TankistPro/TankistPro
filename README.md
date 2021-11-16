@@ -31,12 +31,13 @@
 
 <br />
 
-<details>
+<!-- <details> -->
   <summary>:zap: Statistics:</summary>
+  <br />
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TankistPro&langs_count=8&layout=compact" />
     <br />
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TankistPro&show_icons=true" />
-</details>
+<!-- </details> -->
 
 <!-- [website]: https://webtricks-master.ru/ -->
 [instagram]: https://www.instagram.com/niiikolay_gusev/
