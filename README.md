@@ -3,12 +3,10 @@
 <!-- ![](https://komarev.com/ghpvc/?username=VladKalachev) -->
 
 ## I'm a FrontEnd Developer
-- 🤹 Also, I write write backend for my pet-projects
-- 🎉 Currently I'm trying to create desktop app by using Electron.js
+- 🎉 I am working in web-studio
+- 🤹 I write backend for my pet-projects
 - 🥅 I am constantly learning new things in web dev
-- ⚡ Learning C#, Python
-
-<br />
+- ⚡ Also learning C#, Python
 
 ### Connect with me:
 
@@ -23,6 +21,7 @@
 ![React](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![SocketIO](https://img.shields.io/badge/-Socket.IO-090909?style=for-the-badge&logo=socektio)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongodb)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=Express)
