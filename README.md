@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Nikolay
 
+![image](https://www.codewars.com/users/TankistPro228/badges/large)
 <!-- ![](https://komarev.com/ghpvc/?username=VladKalachev) -->
 
 ## I'm a FrontEnd Developer
@@ -23,6 +24,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![SocketIO](https://img.shields.io/badge/-Socket.IO-090909?style=for-the-badge&logo=socektio)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=Express)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
@@ -35,8 +37,7 @@
   <summary>:zap: Statistics:</summary>
   <br />
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TankistPro&langs_count=8&layout=compact" />
-    <br />
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TankistPro&show_icons=true" />
+<!--    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TankistPro&show_icons=true" /> -->
 <!-- </details> -->
 
 <!-- [website]: https://webtricks-master.ru/ -->
