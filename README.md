@@ -34,7 +34,8 @@
 <br />
 
 <!-- <details> -->
-  <summary>:zap: Statistics:</summary>
+  :zap: Statistics:
+  <br />
   <br />
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TankistPro&langs_count=8&layout=compact" />
 <!--    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TankistPro&show_icons=true" /> -->
