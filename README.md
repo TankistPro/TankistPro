@@ -11,8 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />][vk]
+[<img align="left" alt="Николай | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][tg]
+[<img align="left" alt="Николай | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />][vk]
+[<img align="left" alt="Николай | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
 
 <br />
 
@@ -41,3 +42,4 @@
 <!-- [website]: https://webtricks-master.ru/ -->
 [instagram]: https://www.instagram.com/niiikolay_gusev/
 [vk]: https://vk.com/gusevnukolay
+[tg]: https://t.me/TankistPro
