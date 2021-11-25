@@ -38,6 +38,10 @@
   <br />
   <br />
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankistpro&show_icons=true&theme=radical)
+  <br />
+  <br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankistpro)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- [website]: https://webtricks-master.ru/ -->
 [instagram]: https://www.instagram.com/niiikolay_gusev/
