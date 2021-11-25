@@ -33,13 +33,10 @@
 
 <br />
 
-<!-- <details> -->
   :zap: Statistics:
   <br />
   <br />
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TankistPro&langs_count=8&layout=compact" />
-<!--    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TankistPro&show_icons=true" /> -->
-<!-- </details> -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankistpro&show_icons=true&theme=radical)
 
 <!-- [website]: https://webtricks-master.ru/ -->
 [instagram]: https://www.instagram.com/niiikolay_gusev/
