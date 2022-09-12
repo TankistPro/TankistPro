@@ -11,7 +11,7 @@
 
 #### &#128105;&#8205;&#128187;Pet-проект "Северяночка", над которым веду разработку &#128073; https://github.com/Severyanochka-PetProject
 
-### Connect with me:
+### Contact with me:
 
 [<img align="left" alt="Николай | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][tg]
 [<img align="left" alt="Николай | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
