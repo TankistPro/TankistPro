@@ -2,20 +2,6 @@
 
 ![image](https://www.codewars.com/users/TankistPro228/badges/large)
 
-## I'm a FrontEnd Developer
-- 🎉 I am working in IT-company
-- 🤹 I write backend for my pet-projects
-- 🥅 I am constantly learning new things in web dev
-- ⚡ Also learning C#, Python
-
-#### &#128105;&#8205;&#128187;Pet-проект "Северяночка", над которым веду разработку &#128073; https://github.com/Severyanochka-PetProject
-
-### Contact with me:
-
-[<img align="left" alt="Николай | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][tg]
-
-<br />
-
 ### Languages and Tools:
 
 ![Vue](https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js)
